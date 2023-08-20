@@ -1,0 +1,14 @@
+{
+    "name": "Rouge Gorge",
+    "usb": {
+        "vid": "0x4759",
+        "pid": "0x0002",
+        "device_version": "0.0.1"
+    },
+    "matrix": {
+        "rows": 8,
+        "cols": 7
+    },
+    "layouts": {
+    }
+}
